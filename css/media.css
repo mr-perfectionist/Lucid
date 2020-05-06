@@ -1,0 +1,142 @@
+@media (max-width: 575.99px) {
+  
+    .dip2{
+        height: 692px;
+    }
+    .pricing {
+        padding: 120px 0px 0px 0px;
+        padding-top: 120px;
+        height: 620px;
+    }
+    .look-what-you-see {
+        height: 305px;
+        background: #000000;
+        padding: 70px 0px 0px 0px;
+    }
+    .col-sm-8{
+        margin-top: 0px;
+    }
+    .col-sm-4{
+        margin-top: 0px;
+        padding-bottom: 15px;
+    }
+    .po {
+        padding: 70px 0px 0px 0px;
+    }
+    .ftr h2 {
+        margin-left: -2px;
+    }
+    .dip2 h2 {
+        /* margin-right: 1px; */
+        margin-left: -2px;
+    }
+    section.dip {
+        /* margin-top: 60px; */
+        padding: 60px 0px;
+    }
+
+}
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+.pricing{
+    height: 985px;
+}
+address {
+    /* height: 47px; */
+    /* position: absolute; */
+    /* width: 122px; */
+    top: -25%;
+    left: 76%;
+    /* color: #fff; */
+}
+.look-what-you-see {
+    height: 220px;
+    /* background: #000000; */
+    /* padding-bottom: 56px; */
+}
+section.dip {
+    /* margin-top: 60px; */
+    padding-top: 60px;
+    height: 685px;
+}
+header{
+   padding-bottom: 25px;
+}
+.dip span{
+    top: 20%;
+    left: 7%;
+}
+.dip2 span {
+    width: 10%;
+    top: 30%;
+    left: 7%; 
+}
+.dip2 {
+    background: #f2f2f2;
+    height: 525px;
+}
+
+
+
+}
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    
+    .pricing{
+        height: 830px;
+    }
+    address{
+        top: -17%;
+    left: 58%;
+    }
+    .look-what-you-see {
+        height: 195px;
+    }
+    .dip2 span{
+        left: 4%;
+    }
+    section.dip {
+        /* margin-top: 60px; */
+        height: 650px;
+        padding-top: 60px;
+    }
+    .dip span{
+        top: 21%;
+    left: 5%;
+    }
+    .feature {
+        margin-top: 70px;
+        padding-bottom: 30px;
+    }
+   header{
+    padding-bottom: 30px;
+   }
+}
+
+
+@media (min-width: 1200px) {
+
+    header{
+        min-height: 80vh;
+    }
+    .hg h1{
+        font-size: 55px;
+    }
+    button.btn.btn-custom.btn-primary {
+        font-size: 25px;
+    }
+    .pricing{
+        min-height: 80vh;
+    }
+    .look-what-you-see {
+        height: 235px;
+    }
+    
+
+}
